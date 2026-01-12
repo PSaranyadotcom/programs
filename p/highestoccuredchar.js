@@ -1,4 +1,4 @@
-let name1="arrayya"
+let name1="arrayyyyyyya"
 let max=0
 result=""
 

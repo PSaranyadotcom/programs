@@ -1,6 +1,6 @@
 let h=""
 function name1(a,n){
-    for(let i=0;i<a.lenght;i++){
+    for(let i=0;i<a.length;i++){
         if(a.charAt(i)!==n){
 h=h+a[i]
         }
